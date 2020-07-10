@@ -1,0 +1,11 @@
+naranja
+FF6C00
+
+naranja clarito
+FF9E00
+
+negro
+000000
+
+blanco
+FFFFFF

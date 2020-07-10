@@ -1,0 +1,184 @@
+body
+{
+	font-size: 0px;
+	background:#FFF|;
+	background-size: cover;
+}
+#navegador
+{
+	width: 100%;
+	height: 125px;
+	background-color: #FF6C00;
+	position: fixed;
+	z-index: 1;
+	top: 0px;
+	left: 0px;
+
+}
+#logo
+{
+	width: 100px;
+    height: 100px;
+    padding-top: 15px;
+	padding-left: 15px;
+	position: fixed;
+}
+#botones1
+{
+	font-family: Arial;
+	color: #FFF;
+	font-size: 20px;
+	padding-left: 300px;
+	padding-top: 125px;
+	text-decoration: none;
+}
+#botones
+{
+	font-family: Arial;
+	color: #FFF;
+	font-size: 20px;
+	display: inline-block;
+	padding-left: 60px;
+	padding-top: 90px;
+	text-decoration: none;
+}
+#slider
+{
+	width: 50%;
+	height: 400px;
+	padding-top: 200px;
+	padding-bottom: 100px;
+	display: inline-block;
+	/*padding-left: 15px;*/
+	
+}
+#texto
+{
+	display: inline-block;
+	font-family: arial;
+	font-size: 30px;
+	color: #FF6C00;
+	text-align: justify;
+	width: 50%;
+	height: 400px;
+	margin-right: 20px;
+}
+
+#dos
+{
+	width: 100%;
+	height: 50;
+	font-size: 40px;
+	font-family: Arial;
+	text-align: center;
+	color: #FFF;
+	background-color: #FF6C00;
+}
+
+#foto
+{
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+	padding-left: 105px;
+	padding-top: 100px;
+	border-radius: 20px;
+}
+#fotos
+{
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+	padding-left: 240px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-radius: 20px;
+}
+#tres
+{
+	width: 100%;
+	height: 50;
+	font-size: 40px;
+	font-family: Arial;
+	text-align: center;
+	color: #FFF;
+	background-color: #FF6C00;
+}
+#blanco
+{
+	width: 100%
+	height:100px;
+	background-color: #FFF;
+}
+
+input[type='text']{
+	width: 100%;
+	height: 40px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+input[type='submit']{
+	width: 100%;
+	height: 40px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+textarea{
+	width: 100%;
+	height: 40px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+input, textarea{
+	margin-bottom: 3px;
+}
+form{
+			background-color:#FF6C00;
+			border-radius: 3px;
+			color: #34495E;
+			font-size: 0.8em;
+			padding: 20px;
+			margin: 0 auto;
+			width: 350px;
+		}
+
+		input, textarea{
+			border: 0;
+			outline: none;
+
+			width: 350px;
+		}
+
+		.field{
+			border: solid 1px #ccc;
+			padding: 2px;
+
+			
+		}
+
+		.field:focus{
+			border-color: #18A383;
+		}
+
+		.center-content{
+			text-align: center;
+		}
+	}
+}
+#redes
+{
+	width: 100%;
+	height: 100px;
+	background-color: #FF6C00;
+}
+#social
+{
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	padding-left: 25px;
+}
