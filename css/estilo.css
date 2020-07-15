@@ -1,7 +1,7 @@
 body
 {
 	font-size: 0px;
-	background:#FFF|;
+	background:#FFF;
 	background-size: cover;
 }
 #navegador
@@ -106,7 +106,7 @@ body
 }
 #blanco
 {
-	width: 100%
+	width: 100%;
 	height:100px;
 	background-color: #FFF;
 }
@@ -136,7 +136,7 @@ textarea{
 input, textarea{
 	margin-bottom: 3px;
 }
-form{
+		form{
 			background-color:#FF6C00;
 			border-radius: 3px;
 			color: #34495E;
@@ -167,8 +167,8 @@ form{
 		.center-content{
 			text-align: center;
 		}
-	}
-}
+	
+
 #redes
 {
 	width: 100%;
